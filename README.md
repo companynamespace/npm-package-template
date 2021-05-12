@@ -12,19 +12,19 @@ Description
 1. Create new repo from this Template
    [![Template repo](https://docs.github.com/assets/images/help/repository/use-this-template-button.png)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 2. Update Readme
-  - replace `@companynamespace/npm-package-template`  with new package_name
+    - replace `@companynamespace/npm-package-template`  with new package_name
 3. Update package.json
-  - replace "name" `@companynamespace/npm-package-template`  with new package_name
-  - replace "repo" `companynamespace/npm-package-template`  with new package_name repo
-  - Add description, and other fields if needed
+    - replace "name" `@companynamespace/npm-package-template`  with new package_name
+    - replace "repo" `companynamespace/npm-package-template`  with new package_name repo
+    - Add description, and other fields if needed
 4. Update LICENSE.md
-  - Update <COMPANY> name
-  - Update year if needed
+    - Update `<COMPANY>` name
+    - Update year if needed
 5. Update docs/CODE_OF_CONDUCT.md
-   - Update <COMPANY> name
+    - Update `<COMPANY>` name
 6. Activate automatic release
-  - Add `NPM_TOKEN` secret to the repo
-  - disable `dry_run` in Release step in .github/workflows/release.yml. 
+    - Add `NPM_TOKEN` secret to the repo
+    - disable `dry_run` in Release step in .github/workflows/release.yml. 
 
 ## Content
 
