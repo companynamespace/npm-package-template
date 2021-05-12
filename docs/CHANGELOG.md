@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/companynamespace/npm-package-template/compare/v1.0.0...v1.0.1) (2021-05-12)
+
+
+### Bug Fixes
+
+* **init:** change License to Apache ([00f4f90](https://github.com/companynamespace/npm-package-template/commit/00f4f90b8d0407e656773001cfb5cb6cad682a9b))
+* **init:** enable dry_run ([04d4a2d](https://github.com/companynamespace/npm-package-template/commit/04d4a2db8d6279a0ae7a6ebc6bd8caf6d63bea96))
+
 # 1.0.0 (2021-05-12)
 
 
