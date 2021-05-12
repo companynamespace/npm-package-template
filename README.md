@@ -23,7 +23,8 @@ Description
 5. Update docs/CODE_OF_CONDUCT.md
    - Update <COMPANY> name
 6. Activate automatic release
- - disable `dry_run` in Release step in .github/workflows/release.yml. 
+  - Add `NPM_TOKEN` secret to the repo
+  - disable `dry_run` in Release step in .github/workflows/release.yml. 
 
 ## Content
 
