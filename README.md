@@ -5,7 +5,7 @@ Description
 [![Build Status](https://github.com/companynamespace/npm-package-template/workflows/CI/badge.svg?branch=main)](https://github.com/companynamespace/npm-package-template/actions)
 [![CodeQL Analysis](https://github.com/companynamespace/npm-package-template/workflows/CodeQL/badge.svg?branch=main)](https://github.com/companynamespace/npm-package-template/actions)
 [![semver: semantic-release](https://img.shields.io/badge/semver-semantic--release-blue.svg)](https://github.com/semantic-release/semantic-release)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## TLDR;
 
@@ -17,9 +17,9 @@ Description
     - replace "name" `@companynamespace/npm-package-template`  with new package_name
     - replace "repo" `companynamespace/npm-package-template`  with new package_name repo
     - Add description, and other fields if needed
-4. Update LICENSE.md
-    - Update `<COMPANY>` name
-    - Update year if needed
+4. Update LICENSE
+    - Update `[COMPANY` name
+    - Update year `[yyyy]`
 5. Update docs/CODE_OF_CONDUCT.md
     - Update `<COMPANY>` name
 6. Activate automatic release
@@ -29,7 +29,7 @@ Description
 ## Content
 
 ### Docs
-  - LICENSE.md
+  - LICENSE
   - docs/CODE_OF_CONDUCT.md
   - docs/CONTRIBUTING.md
   - docs/CHANGELOG.md --> dynamically updated

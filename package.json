@@ -2,7 +2,7 @@
   "name": "@companynamespace/npm-package-template",
   "version": "1.0.0",
   "description": "<Package description>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "private": false,
   "publishConfig": {
     "access": "public"
